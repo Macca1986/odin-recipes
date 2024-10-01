@@ -1,0 +1,27 @@
+.recipe-title {
+    font-family: 'Lora', serif;
+    color: #183354;
+}
+
+.recipe-description,
+li {
+    font-family: sans-serif;
+}
+
+.recipe-description {
+    font-style: italic;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+li {
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.recipe-headings {
+    font-size: 18px;
+    color: rgb(244, 121, 108);
+    font-family: serif;
+    font-weight: 700;
+}
